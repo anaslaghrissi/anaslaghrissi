@@ -2,9 +2,6 @@
   </head>
   <body>
     <div
-      class="container"
-      style="display: flex; align-items: center; flex-direction: column"
-    >
       <div 
         class="title"
         style="
@@ -104,31 +101,7 @@
           />
         </a>
       </p>
-      <p align="left">
-        <img
-          style="margin: 10px 0; box-shadow: 0 3px 2px 2px #555"
-          align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=anaslaghrissi&show_icons=true&locale=en&layout=compact"
-          alt="anaslaghrissi"
-        />
-      </p>
-      <p align="right">
-        &nbsp;<img
-          style="margin: 10px 0; box-shadow: 0 3px 2px 2px #555"
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=anaslaghrissi&show_icons=true&locale=en"
-          alt="anaslaghrissi"
-        />
-      </p>
-      <p align="center">
-        <img
-          align="center"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=anaslaghrissi&"
-          alt="anaslaghrissi"
-          style="margin: 10px 0; box-shadow: 0 3px 2px 2px #555"
-        />
-      </p>
-    </div>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anaslaghrissi&show_icons=true&locale=en&layout=compact" alt="anaslaghrissi" /></p>
+  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anaslaghrissi" alt="anaslaghrissi" /></a> </p>
-  </body>
+
